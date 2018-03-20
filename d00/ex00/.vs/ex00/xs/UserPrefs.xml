@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{F5E17C2C-C891-A317-58F9-6E60075A8308}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CubeSpawner.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Balloon.cs" Line="12" Column="51" />
+      <File FileName="Assets/Scripts/Cube.cs" Line="5" Column="18" />
+      <File FileName="Assets/Scripts/CubeSpawner.cs" Line="7" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ex00 PreferredExecutionTarget="Unity.Editor" />
+</Properties>
